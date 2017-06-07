@@ -1,0 +1,2 @@
+request: (GET /service/r2/addstatus.jsp?key=0f460e5d186b3d41c9bf280b8cb2e0807a2031c1&sid=33583&d=20141219&t=23:15&v1=896&v2=1471&v5=47,00&v6=580,0)@154580616 org.eclipse.jetty.server.Request@936b688
+(GET /service/r2/addbatchstatus.jsp?key=0f460e5d186b3d41c9bf280b8cb2e0807a2031c1&sid=33583&data=20141220,18:25,896,1471,-1,-1,47,00,580,0)
